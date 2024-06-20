@@ -1,0 +1,22 @@
+{
+  "name": "Version",
+  "version": "0.1.0",
+  "summary": "A short description of Version.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/KMaslar/Version",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "KMaslar": "kostadinag@nextsense.com"
+  },
+  "source": {
+    "git": "https://github.com/KMaslar/Version.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "Version/Classes/**/*"
+}
